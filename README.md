@@ -2,6 +2,7 @@
 
 ![Preview](palantir_wallpaper_1440p_ghost_wordmark_1branch_under_clean.png)
 ![Preview](branch_wallpaper_1440p_oxblood_flowers.png)
+
 ## Legal & Compliance
 
 We take this very seriously, going forward.
