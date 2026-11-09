@@ -1,8 +1,7 @@
 # palantirwallpapers
 
 ![Preview](palantir_wallpaper_1440p_ghost_wordmark_1branch_under_clean.png)
-![Preview](palantir_wallpaper_1440p_ghost_wordmark_teal.png)
-![Preview](palantir_wallpaper_1440p_ghost_wordmark_red.png)
+![Preview](branch_wallpaper_1440p_oxblood_flowers.png)
 ## Legal & Compliance
 
 We take this very seriously, going forward.
